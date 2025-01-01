@@ -1357,7 +1357,7 @@ dependencies = [
 [[package]]
 name = "dpi"
 version = "0.1.1"
-source = "git+https://github.com/lighthx/winit.git?rev=5db1bfb0956e91d712c3e4c956d7cb46e7e139e1#5db1bfb0956e91d712c3e4c956d7cb46e7e139e1"
+source = "git+https://github.com/lighthx/winit.git?rev=f0b827cdcf1875be90cc45609ffcf6b025c1441c#f0b827cdcf1875be90cc45609ffcf6b025c1441c"
 
 [[package]]
 name = "drm"
@@ -6763,7 +6763,7 @@ checksum = "589f6da84c646204747d1270a2a5661ea66ed1cced2631d546fdfb155959f9ec"
 [[package]]
 name = "winit"
 version = "0.30.1"
-source = "git+https://github.com/lighthx/winit.git?rev=5db1bfb0956e91d712c3e4c956d7cb46e7e139e1#5db1bfb0956e91d712c3e4c956d7cb46e7e139e1"
+source = "git+https://github.com/lighthx/winit.git?rev=f0b827cdcf1875be90cc45609ffcf6b025c1441c#f0b827cdcf1875be90cc45609ffcf6b025c1441c"
 dependencies = [
  "ahash 0.8.11",
  "android-activity",

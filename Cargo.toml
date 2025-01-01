@@ -190,7 +190,7 @@ web-time = "1.1"
 wgpu = "23.0"
 winapi = "0.3"
 window_clipboard = "0.4.1"
-winit = { git = "https://github.com/lighthx/winit.git", rev = "5db1bfb0956e91d712c3e4c956d7cb46e7e139e1"}
+winit = { git = "https://github.com/lighthx/winit.git", rev = "f0b827cdcf1875be90cc45609ffcf6b025c1441c" }
 
 [workspace.lints.rust]
 rust_2018_idioms = { level = "forbid", priority = -1 }
